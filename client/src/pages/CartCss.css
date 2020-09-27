@@ -1,0 +1,5 @@
+.cartHeading {
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+}

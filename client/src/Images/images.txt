@@ -1,0 +1,30 @@
+https://i.ibb.co/kMCw1Gs/fashion-1623085-1920.jpg 
+https://i.ibb.co/vchXctF/person-690245-1920.jpg
+https://i.ibb.co/vBKFs4M/store-1338629-1920.jpg
+https://i.ibb.co/9rX5qrM/woman-1822459-1920.jpg
+https://i.ibb.co/wKHysFT/young-690958-1920.jpg
+
+https://i.ibb.co/mv21tvD/felipe-galvan-Ahfr-A5-VQNp-M-unsplash.jpg
+https://i.ibb.co/YDNZkC8/ussama-azam-xg-NSlx7-Dj-YM-unsplash.jpg
+https://i.ibb.co/gjB07K5/ian-dooley-TT-ROx-Wj9n-A-unsplash.jpg
+https://i.ibb.co/gMkM3JL/daniel-storek-JM-q-KEd1-GMI-unsplash.jpg
+https://i.ibb.co/QQbRZNT/ali-pazani-Nufct-I2-NGJQ-unsplash.jpg
+
+
+
+.products {
+	margin-top: 35px;
+}
+
+.firstItem {
+	flex: 1 1 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 10px 15px;
+} 
+
+
+
+
+

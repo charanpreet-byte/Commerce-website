@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Black Hat",
+            "price": 199,
+            "description": "Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'.",
+            "url": "https://i.ibb.co/mv21tvD/felipe-galvan-Ahfr-A5-VQNp-M-unsplash.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Black Hat",
+            "price": 299,
+            "description": "Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'.",
+            "url": "https://i.ibb.co/wKHysFT/young-690958-1920.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Cheap Set of Cloths",
+            "price": 99,
+            "description": "Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'.",
+            "url": "https://i.ibb.co/vBKFs4M/store-1338629-1920.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Dress",
+            "price": 899,
+            "description": "Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'..",
+            "url": "https://i.ibb.co/YDNZkC8/ussama-azam-xg-NSlx7-Dj-YM-unsplash.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Hat",
+            "price": 999,
+            "description": "Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'.",
+            "url": "https://i.ibb.co/mv21tvD/felipe-galvan-Ahfr-A5-VQNp-M-unsplash.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Agian Hat",
+            "price": 199,
+            "description": "Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'.",
+            "url": "https://i.ibb.co/wKHysFT/young-690958-1920.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Title",
+            "price": 999,
+            "description": "Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'.",
+            "url": "https://i.ibb.co/vBKFs4M/store-1338629-1920.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Shorts",
+            "price": 1999,
+            "description": "Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy text is also known as 'fill text'.",
+            "url": "https://i.ibb.co/9rX5qrM/woman-1822459-1920.jpg"
+        }
+    ]
+}

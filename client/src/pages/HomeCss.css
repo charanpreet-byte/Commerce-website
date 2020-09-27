@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+} 
+
+.con {
+    display: flex;
+	flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.items {
+    margin: 14px;
+}
+
+
+@media only screen and (min-width: 1644px) {
+    .con {
+      margin-left: 3rem;
+      margin-right: 3rem;
+    }
+
+    .items {
+        margin-right: 0.7rem;
+        margin-left: 0.7rem;
+    }
+}
