@@ -4,4 +4,4 @@
 1. Inside ./client/ run: **npm i** 
 1. After that inside ./client run/: **gatsby develop**
 1. Inside ./json-server/ run: **npm install -g json-server**
-1. After that inside ./json-server/ run:**json-server --watch db.json**
+1. After that inside ./json-server/ run: **json-server --watch db.json**
